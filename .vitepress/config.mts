@@ -25,7 +25,7 @@ export default defineConfig({
     externalLinkIcon: true,
 
     nav: [
-      { text: "指南", link: "/guide/HFLive13.0-技术指南" },
+      { text: "指南", link: "/guide/hflive13.0-techdoc" },
       { text: "bilibili", link: "https://space.bilibili.com/324280848" },
       {
         text: "GitHub",
@@ -40,12 +40,12 @@ export default defineConfig({
           {
             text: "HFLive13.0 技术指南",
             base: "/guide/",
-            link: "HFLive13.0-技术指南",
+            link: "hflive13.0-techdoc",
           },
           {
             text: "歌词显示",
             base: "/guide/",
-            link: "歌词显示",
+            link: "lyrics-display",
           },
         ],
       },

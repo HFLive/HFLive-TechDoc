@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: ./guide/HFLive13.0-技术指南
+      link: ./guide/hflive13.0-techdoc
     - theme: alt
       text: GitHub
       link: https://github.com/HFLive/HFLive-TechDoc
