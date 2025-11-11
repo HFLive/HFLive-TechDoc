@@ -42,6 +42,11 @@ export default defineConfig({
             base: "/guide/",
             link: "HFLive13.0-技术指南",
           },
+          {
+            text: "歌词显示",
+            base: "/guide/",
+            link: "歌词显示",
+          },
         ],
       },
     ],
