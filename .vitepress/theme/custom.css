@@ -1,6 +1,6 @@
 /* 深色模式矢量图反转颜色 */
 @media (prefers-color-scheme: dark) {
-  html.dark .svg {
+  html.dark .dark-invert {
     filter: invert(100%);
   }
 }
