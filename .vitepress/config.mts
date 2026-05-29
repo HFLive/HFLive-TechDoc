@@ -7,7 +7,7 @@ export default defineConfig({
   description: "华附直播团队技术文档集合站。",
 
   head: [
-    ["link", { rel: "icon", type: "image", href: "/hflive-techdoc-logo.svg" }],
+    ["link", { rel: "icon", type: "image/svg+xml", href: "/hflive-techdoc-logo.svg" }],
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:title", content: "华附直播团队技术文档" }],
     ["meta", { property: "og:site_name", content: "华附直播团队" }],
@@ -20,7 +20,7 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "/hflive-techdoc-logo.webp",
+    logo: "/hflive-techdoc-logo.svg",
 
     externalLinkIcon: true,
 
