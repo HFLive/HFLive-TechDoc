@@ -25,4 +25,4 @@ $ pnpm dev
 
 - `.vitepress/`：站点与主题配置
 - `index.md`：网站首页
-- `docs/`：具体文档内容
+- `guide/`：具体文档内容
