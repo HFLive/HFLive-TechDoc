@@ -4,3 +4,7 @@ node_modules
 # VitePress
 .vitepress/dist
 .vitepress/cache
+
+# Environment secrets
+.env
+.env.*
